@@ -8,5 +8,6 @@ Name 			| 	Profile Link
 ------------ 	| -------------
 Arvind Iyer		| [Arvindiyer](https://github.com/arvindiyer)  
 Vishwas Patel | [vrp97](https://github.com/vrp97)
+Jaymin Patel  | [jayminpatel12](https://github.com/jayminpatel12)
 
 -Team Learnovate   
