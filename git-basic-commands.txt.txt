@@ -1,0 +1,35 @@
+#### BASIC GIT COMMANDS ####
+
+git init
+ -- Initializes all .git files into your folder
+
+git clone LOCATIONOFREPOSITORY.COM
+ -- Creates a copy of the repository in your local machine
+
+git branch
+ -- Checks the status of all your branches in your local machine.
+
+git status
+ -- Shows if there are unpushed files which are updated or not committed to the servers
+
+git checkout -b NEWBRANCHNAME
+ -- Creates a new branch named NEWBRANCHNAME into your local machine. Before creating the branch, make sure that you are in the folder that is created after cloning the repository. Use "cd DIRECTORYNAME" command to change the folder and "ls" to see the contents of the current folder.
+
+git checkout BRANCHNAME
+ -- Changes your working branch to BRANCHNAME
+
+git push origin BRANCHNAME
+ -- Once you have created a new branch you need to push the branch to the servers. If you find error in this step, go to file browser(explorer) and type .git in file searcher and select "config" file and add the following code snippet at the end of config file
+[user]
+    name = YOUR_NAME
+    email = YOUR_EMAIL@ADDRESS.COM 
+This will fix that error.
+
+git add FILENAME.EXTENSION
+ -- Once the branch is pushed into servers, you need to add your new file to the branch. Before adding the file make sure that the file is added to correct branch, by checking 'git branch' and if need be change branch by using 'git checkout BRANCHNAME'.
+
+git commit -m FILENAME.EXTENSION
+ -- Once the file is added to branch, the file is to be committed to branch using this command.
+
+git push
+ -- This is the final step that will push the file to the servers.
