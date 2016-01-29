@@ -7,4 +7,5 @@ This is a repository in which a member creates a branch and uploads a about hims
 Name 			| 	Profile Link
 ------------ 	| -------------
 Arvind Iyer		| [Arvindiyer](https://github.com/arvindiyer)  
+Himanshu Patel		| [Himanshu Patel](https://github.com/himanshu188)  
 -Team Learnovate   
