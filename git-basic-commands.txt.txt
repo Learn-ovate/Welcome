@@ -33,5 +33,3 @@ git commit -m FILENAME.EXTENSION
 
 git push
  -- This is the final step that will push the file to the servers.
-
-#end of line
