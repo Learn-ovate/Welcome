@@ -4,7 +4,8 @@ This is a repository in which a member creates a branch and uploads a about hims
 
 #Members List
 
-Name 			| 	Profile Link
------------- 	| -------------
-Arvind Iyer		| [Arvindiyer](https://github.com/arvindiyer)  
+Name 			        | 	Profile Link
+--------------- 	| -------------
+Tushar Gonawala		| [TusharGonawala](https://github.com/tushar8049)  
+
 -Team Learnovate   
