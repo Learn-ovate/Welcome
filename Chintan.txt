@@ -1,0 +1,4 @@
+Hello folks, this is Chintan Acharya from 2nd yr. computer. I'm from Porbandar.
+I have deep interest in web development as well as game development.
+I know C, C++, and little bit of Python and JavaScript.
+Looking forward to learning new things.
