@@ -20,5 +20,13 @@ Urvesh Patel      |[patelurvesh](https://github.com/Patelurvesh)
 Pancham Khaitan   |[Pancham97](https://github.com/Pancham97)
 Abhishek Shingadiya  |[abhishekshingadiya](https://github.com/abhishekshingadiya)
 Rahul Mourya      |
-
+Ashish Musani     |
+Himanshu Patel    |
+Chintan Acharya   |
+Jaymin Patel      |
+Yash Chavda       |[yashchavda96](https://github.com/yashchavda96)
+Hiren Kavaiya     |
+Jenish Vaghasia   |
+Vishwas Patel     |
+Dhruvit Galoriya  |[dhruvgaloriya](https://github.com/dhruvgaloriya)
 -Team Learnovate   
