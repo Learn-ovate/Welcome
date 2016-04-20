@@ -22,13 +22,12 @@ Elize Modi        |[modielize](https://github.com/modielize)
 Urvesh Patel      |[patelurvesh](https://github.com/Patelurvesh)
 Pancham Khaitan   |[Pancham97](https://github.com/Pancham97)
 Abhishek Shingadiya  |[abhishekshingadiya](https://github.com/abhishekshingadiya)
-Ashish Musani     |[](https://github.com/)
-Himanshu Patel    |[](https://github.com/)
-Chintan Acharya   |[](https://github.com/)
-Jaymin Patel      |[](https://github.com/)
-Hiren Kavaiya     |[](https://github.com/)
-Vishwas Patel     |[](https://github.com/)
-Urvesh Patel      |[](https://github.com/)
+Ashish Musani     |[ashishmusani](https://github.com/ashishmusani)
+Himanshu Patel    |[himanshu188](https://github.com/himanshu188)
+Chintan Acharya   |[ChintanAcharya](https://github.com/ChintanAcharya)
+Jaymin Patel      |[jayminpatel12](https://github.com/jayminpatel12)
+Vishwas Patel     |[vrp97](https://github.com/vrp97)
+
 
 #EX-members List
 Name 			        | 	Profile Link
@@ -46,5 +45,7 @@ Rahul Mourya      |
 Yash Chavda       |[yashchavda96](https://github.com/yashchavda96)
 Dhruvit Galoriya  |[dhruvgaloriya](https://github.com/dhruvgaloriya)
 Jenish Vaghasia   |[](https://github.com/)
+Hiren Kavaiya     |[](https://github.com/)
+Urvesh Patel      |[](https://github.com/)
 
 -Team Learnovate   
