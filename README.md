@@ -1,32 +1,19 @@
 #Welcome to Learn-ovate
 
-This is a repository in which a member creates a branch and uploads a about himself/herself.txt file and puts a pull request.
+This is a repository in which a member creates a branch and uploads a about himself/herself.txt file and puts a pull request.This repo is used as learning and starting point to test git knowledge.
 
 #Members List
 
 Name 			        | 	Profile Link
 --------------- 	| -------------
-Arvind Iyer		| [Arvindiyer](https://github.com/arvindiyer)  
-Vatsal Patel 	| [buzz2vatsal](https://github.com/buzz2vatsal) 
+Arvind Iyer		| [Arvindiyer](https://github.com/arvindiyer)
 Nikita Sure		| [nikita08](https://github.com/nikita08)
 Vatsal Trivedi| [vattytrivedi](https://github.com/vattytrivedi)
-Varis Bhalala | [varisbhalala](https://github.com/varisbhalala)
-Tushar Gonawala | [tushar8049](https://github.com/tushar8049)
-Aseem Thakkar | [aseem-thakkar](https://github.com/aseem-thakkar)
-Abhishek Shah		  | [abhi5658](https://github.com/abhi5658)  
-Abhishek Parmar   |[abhishek67parmar](https://github.com/abhishek67parmar)
-Nilesh Kevlani    |[njkevlani](https://github.com/njkevlani)
-Sagar Pandav      |[sagarpandav](https://github.com/sagarpandav)
 Dishita Bhadarshahi      |[DishitaBardarshahi](https://github.com/DishitaBardarshahi)
-Elize Modi        |[modielize](https://github.com/modielize)
-Urvesh Patel      |[patelurvesh](https://github.com/Patelurvesh)
 Pancham Khaitan   |[Pancham97](https://github.com/Pancham97)
 Abhishek Shingadiya  |[abhishekshingadiya](https://github.com/abhishekshingadiya)
 Ashish Musani     |[ashishmusani](https://github.com/ashishmusani)
-Himanshu Patel    |[himanshu188](https://github.com/himanshu188)
 Chintan Acharya   |[ChintanAcharya](https://github.com/ChintanAcharya)
-Jaymin Patel      |[jayminpatel12](https://github.com/jayminpatel12)
-Vishwas Patel     |[vrp97](https://github.com/vrp97)
 
 
 #EX-members List
@@ -47,5 +34,20 @@ Dhruvit Galoriya  |[dhruvgaloriya](https://github.com/dhruvgaloriya)
 Jenish Vaghasia   |[](https://github.com/)
 Hiren Kavaiya     |[](https://github.com/)
 Urvesh Patel      |[](https://github.com/)
+Vatsal Patel 	| [buzz2vatsal](https://github.com/buzz2vatsal)
+Varis Bhalala | [varisbhalala](https://github.com/varisbhalala)
+Tushar Gonawala | [tushar8049](https://github.com/tushar8049)
+Aseem Thakkar | [aseem-thakkar](https://github.com/aseem-thakkar)
+Abhishek Shah		  | [abhi5658](https://github.com/abhi5658)
+Abhishek Parmar   |[abhishek67parmar](https://github.com/abhishek67parmar)
+Nilesh Kevlani    |[njkevlani](https://github.com/njkevlani)
+Sagar Pandav      |[sagarpandav](https://github.com/sagarpandav)
+Elize Modi        |[modielize](https://github.com/modielize)
+Urvesh Patel      |[patelurvesh](https://github.com/Patelurvesh)
+Himanshu Patel    |[himanshu188](https://github.com/himanshu188)
+Jaymin Patel      |[jayminpatel12](https://github.com/jayminpatel12)
+Vishwas Patel     |[vrp97](https://github.com/vrp97)
+
+
 
 -Team Learnovate   
